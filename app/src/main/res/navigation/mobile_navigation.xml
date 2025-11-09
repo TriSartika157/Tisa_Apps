@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_biodata">
+
+    <fragment
+        android:id="@+id/navigation_biodata"
+        android:name="com.itenas.tisaapps.ui.biodata.BiodataFragment"
+        android:label="@string/title_biodata"
+        tools:layout="@layout/fragment_biodata" />
+
+    <fragment
+        android:id="@+id/navigation_contact"
+        android:name="com.itenas.tisaapps.ui.contact.ContactFragment"
+        android:label="@string/title_contact"
+        tools:layout="@layout/fragment_contact" />
+
+    <fragment
+        android:id="@+id/navigation_calculator"
+        android:name="com.itenas.tisaapps.ui.calculator.CalculatorFragment"
+        android:label="@string/title_calculator"
+        tools:layout="@layout/fragment_calculator" />
+
+    <fragment
+        android:id="@+id/navigation_weather"
+        android:name="com.itenas.tisaapps.ui.weather.WeatherFragment"
+        android:label="@string/title_weather"
+        tools:layout="@layout/fragment_weather" />
+
+    <fragment
+        android:id="@+id/navigation_news"
+        android:name="com.itenas.tisaapps.ui.news.NewsFragment"
+        android:label="@string/title_news"
+        tools:layout="@layout/fragment_news" />
+
+
+</navigation>

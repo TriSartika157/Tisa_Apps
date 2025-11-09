@@ -1,0 +1,44 @@
+{
+  "lokasi": {
+    "provinsi": "DKI Jakarta",
+    "kotkab": "Kota Adm. Jakarta Pusat",
+    "kecamatan": "Gambir",
+    "desa": "Gambir",
+    "lat": -6.1763842693,
+    "lon": 106.8267073562
+  },
+  "data": [
+    {
+      "lokasi": {
+        "provinsi": "DKI Jakarta",
+        "kotkab": "Kota Adm. Jakarta Pusat",
+        "kecamatan": "Gambir",
+        "desa": "Gambir",
+        "lat": -6.1763842693,
+        "lon": 106.8267073562
+      },
+      "cuaca": [
+        [
+          {
+            "local_datetime": "2025-10-12 15:00:00",
+            "t": 32,
+            "weather_desc": "Cerah Berawan",
+            "image": "https://api-apps.bmkg.go.id/storage/icon/cuaca/cerah berawan-am.svg"
+          },
+          {
+            "local_datetime": "2025-10-12 18:00:00",
+            "t": 30,
+            "weather_desc": "Berawan",
+            "image": "https://api-apps.bmkg.go.id/storage/icon/cuaca/berawan-pm.svg"
+          },
+          {
+            "local_datetime": "2025-10-12 21:00:00",
+            "t": 28,
+            "weather_desc": "Hujan Ringan",
+            "image": "https://api-apps.bmkg.go.id/storage/icon/cuaca/hujan ringan-pm.svg"
+          }
+        ]
+      ]
+    }
+  ]
+}
