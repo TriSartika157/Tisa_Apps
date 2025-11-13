@@ -1,8 +1,8 @@
-# 📱 UTS Pemrograman Mobile – Tisa Apps
+# UTS Pemrograman Mobile – Tisa Apps
 
 ---
 
-## 🧩 Deskripsi Umum
+##  Deskripsi Umum
 Aplikasi **Tisa Apps** dikembangkan untuk memenuhi **Ujian Tengah Semester (UTS)** mata kuliah **Pemrograman Mobile** pada Program Studi **Informatika - Institut Teknologi Nasional**.  
 Proyek ini dibangun menggunakan **Android Studio (Kotlin)** dengan penerapan berbagai **layout**, **widget**, dan prinsip **User Interface (UI)** serta **User Experience (UX)**.
 
@@ -11,7 +11,7 @@ Aplikasi ini terdiri dari **Splash Screen** dan **Dashboard utama** dengan **Bot
 
 ---
 
-## 🧠 Tujuan Pengembangan
+##  Tujuan Pengembangan
 Tujuan aplikasi ini adalah untuk mengimplementasikan konsep dasar pembuatan aplikasi mobile berbasis Android, khususnya:
 - Penggunaan **Activity** dan **Fragment**
 - Penerapan **navigasi antar halaman (Bottom Navigation)**
@@ -20,7 +20,7 @@ Tujuan aplikasi ini adalah untuk mengimplementasikan konsep dasar pembuatan apli
 
 ---
 
-## 🗂️ Struktur dan Deskripsi Halaman
+##  Struktur dan Deskripsi Halaman
 
 | No | Halaman | Deskripsi |
 |----|----------|-----------|
@@ -50,7 +50,7 @@ Tujuan aplikasi ini adalah untuk mengimplementasikan konsep dasar pembuatan apli
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 - **Bahasa Pemrograman:** Kotlin  
 - **IDE:** Android Studio  
 - **Struktur Navigasi:** Bottom Navigation dengan Fragment  
@@ -66,7 +66,7 @@ Tujuan aplikasi ini adalah untuk mengimplementasikan konsep dasar pembuatan apli
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+##  Cara Menjalankan Proyek
 
 1. **Clone repository ini:**
    ```bash
