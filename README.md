@@ -34,7 +34,7 @@ Tujuan aplikasi ini adalah untuk mengimplementasikan konsep dasar pembuatan apli
 
 ---
 
-## 🖼️ Screenshot Aplikasi
+## Screenshot Aplikasi
 
 | Halaman | Tampilan |
 |----------|-----------|
