@@ -25,7 +25,6 @@ Tujuan aplikasi ini adalah untuk mengimplementasikan konsep dasar pembuatan apli
 | No | Halaman | Deskripsi |
 |----|----------|-----------|
 | 1 | **Splash Screen** | Tampilan pembuka selama 5 detik yang berisi judul aplikasi, foto pengembang, nama, dan NIM. Setelah itu masuk otomatis ke Dashboard. |
-| 2 | **Dashboard** | Halaman utama dengan navigasi bawah (*Bottom Navigation Bar*) untuk berpindah antar menu. |
 | 3 | **Biodata** | Halaman profil interaktif berisi foto, input teks (nama, NIM), dropdown pilihan Program Studi, radio button jenis kelamin, dan date picker untuk tanggal lahir. |
 | 4 | **Kontak** | Menampilkan daftar 15 kontak statis dengan foto profil melingkar, nama, dan nomor telepon menggunakan RecyclerView dan Adapter. |
 | 5 | **Kalkulator** | Kalkulator sederhana dengan fungsi tambah (+), kurang (-), kali (×), bagi (÷), kuadrat, akar kuadrat, dan tombol hapus (C). |
@@ -38,13 +37,12 @@ Tujuan aplikasi ini adalah untuk mengimplementasikan konsep dasar pembuatan apli
 
 | Halaman | Tampilan |
 |----------|-----------|
-| Splash Screen | ![Splash](screenshots/splash.jpg) |
-| Dashboard | ![Dashboard](screenshots/dashboard.jpg) |
-| Biodata | ![Biodata](screenshots/biodata.jpg) |
-| Kontak | ![Kontak](screenshots/kontak.jpg) |
-| Kalkulator | ![Kalkulator](screenshots/kalkulator.jpg) |
-| Cuaca | ![Cuaca](screenshots/cuaca.jpg) |
-| Berita | ![Berita](screenshots/berita.jpg) |
+| Splash Screen | ![Splash](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/berita.jpg) |
+| Biodata | ![Biodata](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/biodata.jpg) |
+| Kontak | ![Kontak](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/biodata.jpg) |
+| Kalkulator | ![Kalkulator](screenshots/contact.jpg) |
+| Cuaca | ![Cuaca](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/cuaca.jpg) |
+| Berita | ![Berita](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/berita.jpg) |
 
 > Semua desain dibuat dengan prinsip **clean design**, **responsif**, dan **mudah digunakan** untuk meningkatkan pengalaman pengguna (UX).
 
