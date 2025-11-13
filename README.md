@@ -37,10 +37,10 @@ Tujuan aplikasi ini adalah untuk mengimplementasikan konsep dasar pembuatan apli
 
 | Halaman | Tampilan |
 |----------|-----------|
-| Splash Screen | ![Splash](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/berita.jpg) |
+| Splash Screen | ![Splash](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/splash.jpg) |
 | Biodata | ![Biodata](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/biodata.jpg) |
-| Kontak | ![Kontak](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/biodata.jpg) |
-| Kalkulator | ![Kalkulator](screenshots/contact.jpg) |
+| Kontak | ![Kontak](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/contact.jpg) |
+| Kalkulator | ![Kalkulator](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/calculator.jpg) |
 | Cuaca | ![Cuaca](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/cuaca.jpg) |
 | Berita | ![Berita](https://github.com/TriSartika157/Tisa_Apps/blob/master/screenshot/berita.jpg) |
 
